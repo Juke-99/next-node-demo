@@ -1,3 +1,6 @@
 .next
 build
 npm-debug.log
+node_modules
+.gccloudignore
+app.yaml
